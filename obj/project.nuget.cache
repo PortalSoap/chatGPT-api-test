@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TrtMa1MVrkOdt5BzCyEyy6glovbkfMQD6SnV01I/wrE1b2hNkwt9k9I+Y4NB0VABxqpGSo/iEr03dYupk8YkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\Projetos\\chatGPT-api-test\\chatGPT-api-test\\chatGPT-api-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
